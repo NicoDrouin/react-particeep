@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-particeep/static/css/main.776909a8.chunk.css",
+    "main.js": "/react-particeep/static/js/main.f5411529.chunk.js",
+    "main.js.map": "/react-particeep/static/js/main.f5411529.chunk.js.map",
+    "runtime-main.js": "/react-particeep/static/js/runtime-main.8d06bb7a.js",
+    "runtime-main.js.map": "/react-particeep/static/js/runtime-main.8d06bb7a.js.map",
+    "static/js/2.ba80f30f.chunk.js": "/react-particeep/static/js/2.ba80f30f.chunk.js",
+    "static/js/2.ba80f30f.chunk.js.map": "/react-particeep/static/js/2.ba80f30f.chunk.js.map",
+    "index.html": "/react-particeep/index.html",
+    "precache-manifest.d69ccbd8ae8887c2f21cd395b4639766.js": "/react-particeep/precache-manifest.d69ccbd8ae8887c2f21cd395b4639766.js",
+    "service-worker.js": "/react-particeep/service-worker.js",
+    "static/css/main.776909a8.chunk.css.map": "/react-particeep/static/css/main.776909a8.chunk.css.map",
+    "static/media/close.svg": "/react-particeep/static/media/close.501d2216.svg",
+    "static/media/gauge.svg": "/react-particeep/static/media/gauge.65a7d79f.svg",
+    "static/media/indicator.svg": "/react-particeep/static/media/indicator.f26df3e0.svg",
+    "static/media/thumbDown.svg": "/react-particeep/static/media/thumbDown.527f053a.svg",
+    "static/media/thumbUp.svg": "/react-particeep/static/media/thumbUp.1955e176.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d06bb7a.js",
+    "static/js/2.ba80f30f.chunk.js",
+    "static/css/main.776909a8.chunk.css",
+    "static/js/main.f5411529.chunk.js"
+  ]
+}
